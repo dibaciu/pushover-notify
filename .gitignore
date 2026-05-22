@@ -1,0 +1,9 @@
+# Config file with credentials - never commit this
+deluge_notify.cfg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
