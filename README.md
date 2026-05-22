@@ -56,6 +56,7 @@ The script always reads `pushover_notify.cfg` from the **same directory as the s
 | `user_key`        | Your Pushover user key          |
 | `pushover_token`  | Your Pushover application token |
 
+
 ## License
 
 MIT
