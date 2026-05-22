@@ -1,5 +1,5 @@
 # Config file with credentials - never commit this
-deluge_notify.cfg
+pushover_notify.cfg
 
 # Python
 __pycache__/
